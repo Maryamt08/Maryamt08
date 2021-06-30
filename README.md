@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on [Loqulii](https://github.com/AmjadElHassan/GamerGab)
+- 🔭 I’m also currently working on [My Portfolio](https://github.com/Maryamt08/portfolio1/tree/master)
 
 - 🌱 I’m currently learning **Angular**
 

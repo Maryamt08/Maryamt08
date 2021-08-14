@@ -2,8 +2,7 @@
 <h3 align="center">A passionate Fullstack React developer from Washington DC</h3>
 
 
-- 🔭 I’m currently working on [Loqulii](https://github.com/AmjadElHassan/GamerGab)
-- 🔭 I’m also currently working on [My Portfolio](https://github.com/Maryamt08/portfolio1/tree/master)
+
 
 - 🌱 I’m currently learning **Angular**
 

@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maryam Tahir</h1>
 <h3 align="center">A passionate Fullstack React developer from Washington DC</h3>
 
+- 🔭 I’m currently working on [Socialize](https://github.com/Maryamt08/Socialize)
 
 
 
